@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Gürkan%20Akbaba%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=.NET+Core+%26+Spring+Boot+ile+çal%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+alan%C4%B1na+tutkuyla+ba%C4%9Fl%C4%B1y%C4%B1m+%F0%9F%9A%80;Yeni+teknolojiler+ö%C4%9Freniyorum;Projeler+geli%C5%9Ftiriyorum+%F0%9F%92%BB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+alan%C4%B1na+tutkuyla+ba%C4%9Fl%C4%B1y%C4%B1m;Yeni+teknolojiler+%C3%B6%C4%9Freniyorum;Projeler+geli%C5%9Ftiriyorum" alt="Typing SVG" />
 </a>
 
 <br>
